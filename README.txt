@@ -1,0 +1,2 @@
+The program runSimulations can be run from command line.
+The code from the c program runSimulations.c can be compiled into a new version of runSimulations by using the command "compilesim runSimulations" in the command line.
